@@ -1,0 +1,152 @@
+html, 
+body 
+    {
+    margin: 0px;
+    padding:0px;
+    background-color:black;
+    }
+    #centrato 
+    {
+        background-color: black;
+        height:auto;
+        width:1000px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    #header 
+    {
+        position:relative;
+        background-color: black;
+        clear:both;
+        height:150px;
+        width:100%;
+    }
+    #primaColonna 
+    {
+        float:left;
+        height:auto;
+        width:20%;
+    }
+    #menuVerticale ul 
+    {
+    margin:0px;
+    padding:0px;
+    list-style-type:none;
+    }
+    #menuVerticale ul a:link, ul a:visited
+    {
+    display:block;
+    padding:10px;
+    text-decoration:none;
+    color:white;
+    text-transform:uppercase;
+    }
+    #menuVerticale ul a:hover 
+    {
+    background-color: gray;
+    }
+    #menuOr 
+    {
+    position:absolute;
+    bottom:0px;
+    width:100%;
+    background-color:black;
+    font-style:italic;
+    color: white;
+    font-size: x-large;
+    text-align:center;
+    
+    }
+    #menuOr ul 
+    {
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+    list-style-type:none;
+    }
+    #menuOr ul a:link , ul a:visited
+    {
+    display:block;
+    padding:10px;
+    text-decoration:none;
+    color:white;
+    text-transform:uppercase;
+    }
+    #menuOr ul a:hover 
+    {
+    background-color: royalblue;
+    }
+    #menuOr ul li
+    {
+    float:left;
+    width:120px;
+    }
+    #secondaColonna 
+    {
+        background-color: gray;
+        height:auto;
+        margin-left:250px;
+    }
+    #footer {
+    background-color:black;
+    clear:left;
+    height:50px;
+    width:100%;
+    }
+    #foto_mia img
+    {
+        display:block;
+        margin:0px auto;
+        width: 500px;
+        height: 370px;
+    }
+    #foto_colamonico img
+    {
+        display:block;
+        margin:0px auto;
+        width: 500px;
+        height: 570px;
+    }
+    #foto_sport img
+    {
+        display:block;
+        margin:0px auto;
+        width: 500px;
+        height: 470px; 
+    }
+     
+    #foto_chiesamadre img
+    {
+        display:block;
+        margin:0px auto;
+        width: 500px;
+        height: 470px; 
+    }
+    }
+    #chisono
+    {
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     color: white;
+     text-align: center;
+    }
+    #scuola
+    {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: white;
+        text-align: center;
+    }
+    #sport
+    {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: white;
+        text-align: center;
+    }
+
+    }
+    #paese
+    {
+        padding:10px;
+        text-decoration:none;
+        color: white;
+    }
+ 
